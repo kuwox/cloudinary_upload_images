@@ -1,4 +1,4 @@
-Este un un modelo de como enviar imágenes a Cloudinary
+Este un un modelo de como enviar imágenes a Cloudinary, diseñado en Next JS 14
 ## Especificaciones:
 
 ### Variables de entorno
